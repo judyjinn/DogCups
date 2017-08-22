@@ -1,4 +1,4 @@
-# DogCups
+# dog_cups_analysis
 
 Script for analyzing data for an experiment where dogs search an array of cups to find a cup containing a target odor.
 
